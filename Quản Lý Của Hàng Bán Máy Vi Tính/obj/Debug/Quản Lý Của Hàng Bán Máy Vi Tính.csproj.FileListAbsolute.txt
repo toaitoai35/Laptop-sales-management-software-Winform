@@ -1,0 +1,176 @@
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_GioiThieu.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_HangHoa.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_KhachHang.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_Main.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_NhanHieu.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_NhanVien.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_TimHDBan.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.Properties.Resources.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.GenerateResource.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe.licenses
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.CoreCompileInputs.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe.config
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.pdb
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Data.v19.2.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Data.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.CopyComplete
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.pdb
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csprojAssemblyReference.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_HoaDon.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\project c#\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.ResolveComReference.cache
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe.config
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.pdb
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Data.v19.2.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Utils.v19.2.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csprojAssemblyReference.cache
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.ResolveComReference.cache
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_GioiThieu.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_HangHoa.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_HoaDon.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_KhachHang.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_Main.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_NhanHieu.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_NhanVien.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_TimHDBan.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.Properties.Resources.resources
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.GenerateResource.cache
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe.licenses
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.CoreCompileInputs.cache
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.CopyComplete
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe
+D:\Doccuments\Term\5th Semester\PRN292\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.pdb
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe.config
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.pdb
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Data.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csprojAssemblyReference.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.ResolveComReference.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_GioiThieu.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_HangHoa.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_HoaDon.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_KhachHang.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_Main.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_NhanHieu.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_NhanVien.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.frm_TimHDBan.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản_Lý_Của_Hàng_Bán_Máy_Vi_Tính.Properties.Resources.resources
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.GenerateResource.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe.licenses
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.CoreCompileInputs.cache
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.csproj.CopyComplete
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.exe
+E:\IT\Sortware\CN5\PRN292(.NET and C#)\Project\Quản Lý Của Hàng Bán Máy Vi Tính\Quản Lý Của Hàng Bán Máy Vi Tính\obj\Debug\Quản Lý Của Hàng Bán Máy Vi Tính.pdb
